@@ -37,17 +37,4 @@ $david = 'estudiante';
 echo $nombre; // -> david
 echo $$nombre; // -> estudiante
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ?>
