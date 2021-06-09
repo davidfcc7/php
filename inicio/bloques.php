@@ -22,7 +22,7 @@ switch ($variable) {
 
 // se utiliza cunado se quieren consultar datos
 // acceder a los datos del usuario por la key 
-foreach ($datos as $key => $name) {
+foreach ($datos as $id => $name) {
     # code...
 }
 // acceder a los datos del usuario en la tabla "n"
