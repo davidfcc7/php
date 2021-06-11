@@ -1,6 +1,5 @@
 {
-    
-    "name": "davidCaicedo/text",
+    "name": "davidcaicedo/text",
     "autoload": {
         "psr-4": {
             "Text\\": "src/"
