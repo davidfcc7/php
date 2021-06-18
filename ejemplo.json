@@ -1,0 +1,8 @@
+{
+    "name": "david",
+    "profesion": "ingeniero",
+    "conocimientos":{
+        "basicos": ["js", "php"],
+        "avanzados": ["html", "css"]
+    }
+}
